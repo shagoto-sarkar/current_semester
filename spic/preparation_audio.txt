@@ -1,0 +1,34 @@
+Welcome to your 5-minute High-Yield Audio Guide for the SPIC Midterm Exam.
+
+MODULE 1: PRIVACY & TECHNOLOGY
+- Three aspects of privacy: Intrusion (being left alone), Control of information, and Freedom from surveillance.
+- Privacy threats: Institutional uses, insider leaks, theft (hackers), inadvertent leakage, and user actions.
+- Key terms: Invisible gathering (cookies/spyware), Secondary use (using data for unapproved purposes), Data mining (pattern search), Computer matching (combining databases via NID/SSN), Profiling (predicting behavior).
+- Consent: Opt-in (affirmative consent, safe-by-default) vs Opt-out (automatic collection unless user stops it, surveillance-by-default).
+- Fair Information Principles: Notice of collection, collect only needed data, offer opt-out for secondary use, Data Retention (keep data only as long as needed), and strong security.
+- Big Brother: Mass databases shift legal presumption of innocence to a presumption of guilt.
+
+MODULE 2: FREE SPEECH & CENSORSHIP
+- Three paradigms: Print (strongest protection), Broadcast (regulated bandwidth/content), Common Carriers (no content control/responsibility).
+- Obscenity: Undue exploitation of sex with violence/crime. Canadian court in R v. Sharpe ruled repugnant writings are not illegal unless they actively advocate/counsel illegal acts.
+- Hate Speech (Canada s.318-319): Criminal offense to advocate genocide or incite hatred against color, race, religion, or ethnic origin.
+- Censorship: US CIPA requires web filters in schools/libraries for funding. Canada CRTC chose not to regulate the internet.
+- Anonymity: True anonymity (unlinkability) vs Pseudonymity. Public pseudonym (easy public link), Non-public pseudonym (admin knows link), Unlinkable pseudonym (no one knows).
+- Spam: AOL won against spammers due to server cost/damage. Intel lost trespass suit because emails caused no economic harm.
+
+MODULE 3: COMPUTER CRIME
+- Hacking phases: Phase 1 (1960s, programming joy), Phase 2 (1970s-90s, unauthorized access, white collar), Phase 3 (mid-90s, web growth, script kiddies).
+- Hacktivism: Hacking for political causes. Critics view it as crime/cyberterrorism because it denies free speech and violates property rights.
+- US Laws: CFAA criminalizes unauthorized access to protected computers. Patriot Act increases penalties and allows recovery of damages.
+- Canadian Laws: Mischief (s.430) covers computer sabotage and data alteration (s.430(1.1)). Colour of Right is an honest belief that an action is lawful, preventing conviction if Mens Rea (guilty mind) is absent. Personation (s.403) and Dishonest acquisition of services (s.342.1) cover hacking entry. Telecommunication tool ban (s.327) doesn't apply to general computer systems.
+- Cybercrime Targets: Individual property, organizations, and society. Common crimes include phishing (fake credential emails) and spoofing (impersonation).
+
+EXAM SOLUTIONS CHEAT SHEET
+- Smart University: AI personalizes learning, IoT monitors safety, smart cards handle transactions.
+- Election Commission Case: IT officer exporting NID/phones is unauthorized release by an insider and secondary use. Russia hack is information theft. Failure to delete 15-year old data violates Data Retention principle (keep data only as long as needed).
+- DDoS identity levels: Traceable accounts are Public Pseudonyms (high accountability and direct prosecution). Admin-known accounts are Non-public Pseudonyms (subpoena required). Untraceable accounts are Unlinkable Pseudonyms (zero accountability, ethically problematic as it removes risk for attackers).
+- E-commerce hack: Type is hacking, identity theft, and data mischief. Targets are organization servers and customer wallets. Motive is Profit (financial gain).
+- AI layoffs: TechDIU displaced 30% support staff, but created roles for reassigned staff and AI specialists. Sustainability strategy: proactive upskilling programs funded by automation savings.
+- Anonymity balance: Blogger exposing corruption is whistleblower (search for truth). Unrestricted anonymity allows false libel, so it must be limited. Identity should only be unmasked under warrant if a clear libel case is proven.
+- Agriculture automation: Solves labor supply/urbanization, improves yield via precision IoT, but has high costs. Solutions: GPS autosteer, soil sensors, yield analytics.
+- Phishing prevention: Organizations use DMARC/MFA and education. Consumers check URLs and enable MFA.

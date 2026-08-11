@@ -1,0 +1,161 @@
+A GIFT OF FIRE THIRD EDITION - SARA BAASE
+CHAPTER 2: PRIVACY
+
+Lecture 2
+"Big Brother is Watching You”
+Md Umaid Hasan
+
+Lecturer, Dept.of CSE
+Daffodil International University
+1
+
+"BIG BROTHER IS WATCHING YOU"
+❏ Databases:
+○
+
+Government agencies
+■
+
+Collect many types of information
+
+■
+
+Ask business to report about consumers
+
+■
+
+Buy personal information from sellers
+
+○
+
+Main publicized reason: data mining and computer matching to fight terrorism
+
+○
+
+Private information can be used to:
+■
+
+Arrest people
+
+■
+
+Jail people
+
+■
+
+Seize assets
+2
+
+"BIG BROTHER IS WATCHING YOU"
+❏ Databases:
+○ Millions of crime suspects are searched in government databases
+○ Shift from presumption of innocence to presumption of guilt
+○ Computer software characterizes suspects
+■ Innocent people are sometimes subject to embarrassing searches
+and expensive investigations and to arrest and jail.
+
+3
+
+"BIG BROTHER IS WATCHING YOU"
+Small Sampling of Government Databases with Personal Information
+❏ What data does the government have about you?
+○
+
+Tax records
+
+○
+
+Books checked out of public libraries
+
+○
+
+Medical records
+
+○
+
+People with permits to carry firearms
+
+○
+
+Marriage and divorce records
+
+○
+
+○
+
+Applications for government grant
+and loan programs
+
+Property ownership
+
+○
+
+○
+
+Professional and trade licenses
+
+Welfare records
+
+○
+
+○
+
+Bankruptcy records
+
+School records
+
+○
+
+○
+
+Arrest records
+
+Motor vehicle records
+
+○
+
+Voter registration records
+4
+
+"BIG BROTHER IS WATCHING YOU"
+❏ Some constitution articles (laws) protect privacy.
+
+❏ Modern surveillance techniques are redefining expectation of privacy.
+❏ In some countries:
+○ No court order or court oversight needed to get one’s private
+information.
+
+○ 2003-2005 report found "widespread and serious misuse" of the
+FBIs (Federal Bureau of Investigation)national security letter
+authorities.
+
+5
+
+"BIG BROTHER IS WATCHING YOU"
+Two key problems arise from new technologies:
+
+❏ Much of our personal information is no longer safe in our homes; it
+resides in huge databases outside our control.
+❏ New technologies allow the government to search our homes without
+entering them and search our persons from a distance without our
+knowledge
+
+6
+
+"BIG BROTHER IS WATCHING YOU"
+Video Surveillance:
+❏ Security cameras in Shopping centers, malls, banks, etc.
+
+❏ Cameras alone raise some privacy issues.
+❏ When being combined with face recognition systems,
+they raise more privacy issues.
+➢ Increased security
+➢ Decreased privacy
+
+7
+
+Thank You
+
+8
+
+

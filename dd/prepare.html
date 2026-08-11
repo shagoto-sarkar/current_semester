@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSE414 Exam Preparation Guide & Solved Paper</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            color: #1f2937;
+            line-height: 1.6;
+            font-size: 11pt;
+            margin: 0;
+            padding: 0;
+        }
+        h1, h2, h3, h4 {
+            color: #1e3a8a;
+            font-weight: bold;
+            margin-top: 0;
+        }
+        h1 {
+            font-size: 24pt;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 16pt;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 5px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 12pt;
+            color: #0f766e;
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+        p {
+            margin-top: 0;
+            margin-bottom: 10px;
+            text-align: justify;
+        }
+        ul, ol {
+            margin-top: 0;
+            margin-bottom: 10px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        
+        /* Box Tables for Bulletproof Headless PDF Conversion */
+        .info-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #f3f4f6;
+            border-left: 6px solid #1e3a8a;
+        }
+        .q-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background-color: #eff6ff;
+            border-left: 4px solid #3b82f6;
+            border-top: 1px solid #bfdbfe;
+            border-right: 1px solid #bfdbfe;
+            border-bottom: 1px solid #bfdbfe;
+        }
+        .c-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background-color: #f0fdf4;
+            border-left: 4px solid #16a34a;
+            border-top: 1px solid #bbf7d0;
+            border-right: 1px solid #bbf7d0;
+            border-bottom: 1px solid #bbf7d0;
+        }
+        .e-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            background-color: #fffbeb;
+            border-left: 4px solid #d97706;
+            border-top: 1px solid #fde68a;
+            border-right: 1px solid #fde68a;
+            border-bottom: 1px solid #fde68a;
+        }
+        
+        /* Grid Tables */
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        .data-table th, .data-table td {
+            border: 1px solid #d1d5db;
+            padding: 8px 10px;
+            text-align: left;
+            font-size: 10pt;
+        }
+        .data-table th {
+            background-color: #f3f4f6;
+            font-weight: bold;
+        }
+        
+        /* Workflow Diagram */
+        .wf-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        .wf-table td {
+            padding: 0;
+            vertical-align: middle;
+            border: none;
+        }
+        .wf-box {
+            background-color: #1e3a8a;
+            color: #ffffff;
+            padding: 8px;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 9pt;
+            font-weight: bold;
+            border: 1px solid #1e40af;
+        }
+        .wf-box-alt {
+            background-color: #0f766e;
+            color: #ffffff;
+            padding: 8px;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 9pt;
+            font-weight: bold;
+            border: 1px solid #0d9488;
+        }
+        .wf-arrow {
+            text-align: center;
+            font-size: 16pt;
+            color: #3b82f6;
+            font-weight: bold;
+            width: 25px;
+        }
+        .wf-desc {
+            font-size: 8pt;
+            color: #e5e7eb;
+            font-weight: normal;
+            margin-top: 3px;
+            line-height: 1.2;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Cover Page -->
+    <div style="text-align: center; padding-top: 100px; padding-bottom: 50px;">
+        <p style="font-size: 14pt; font-weight: bold; color: #4b5563; margin-bottom: 5px; text-align: center;">DAFFODIL INTERNATIONAL UNIVERSITY</p>
+        <p style="font-size: 11pt; color: #6b7280; margin-bottom: 60px; text-align: center;">Faculty of Science & Information Technology | Department of CSE</p>
+        
+        <h1 style="border: none; font-size: 28pt; margin-top: 50px; margin-bottom: 20px; color: #1e3a8a; text-align: center;">
+            CSE414: Research Innovation &<br>Technical Writings
+        </h1>
+        <p style="font-size: 16pt; color: #0d9488; font-weight: bold; margin-bottom: 80px; text-align: center;">Mid-Term Examination Study Guide & Solved Papers</p>
+        
+        <div style="margin: 180px auto 40px auto; width: 60%; border-top: 2px solid #d1d5db; padding-top: 20px;">
+            <p style="font-size: 11pt; font-weight: bold; margin-bottom: 5px; text-align: center;">Prepared for Spring 2026 Mid-term Exam</p>
+            <p style="font-size: 10pt; color: #6b7280; text-align: center;">Covers previous question papers, lecture slides, and key curriculum concepts.</p>
+        </div>
+    </div>
+
+    <!-- Header Box on Page 2 -->
+    <table class="info-table" style="page-break-before: always;">
+        <tr>
+            <td style="padding: 12px; font-size: 10pt; line-height: 1.4; border: none;">
+                <strong style="font-size: 13pt; color: #1e3a8a;">CSE414: Research Innovation & Technical Writings</strong><br>
+                <strong>Mid-Term Examination Solved Paper</strong> | Spring 2026<br>
+                <strong>Time:</strong> 01:30 Hrs | <strong>Total Marks:</strong> 25
+            </td>
+        </tr>
+    </table>
+
+    <h2>PART 1: Solved Mid-Term Exam Paper</h2>
+
+    <!-- Question 1 -->
+    <table class="q-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #1d4ed8;">Question 1. a)</strong><br>
+                Describe the key components of the Introduction section in a research paper and explain the role of each component with an appropriate example. <strong>[Marks: 2+5 = 7] (CO1)</strong>
+            </td>
+        </tr>
+    </table>
+
+    <h3 style="color: #0f766e;">Solution:</h3>
+    <p>The <strong>Introduction</strong> section of a research paper serves as a mental roadmap for the reader. It must introduce the overall field, establish the context, point out the gap in existing research, and state what the paper aims to accomplish. The key components of an Introduction section, their roles, and examples are detailed below:</p>
+    
+    <ol>
+        <li>
+            <span class="highlight">Background of the Study:</span>
+            <ul>
+                <li><strong>Role:</strong> Establishes the high-level context of the research, explaining why the general topic is significant. It often uses data, charts, and statistics (ideally within the last 1–3 years) to justify the existence of a real-world problem.</li>
+                <li><strong>Example:</strong> In a paper about smart home security, the background would show that house burglary rates have increased by 15% in urban areas over the last two years, demonstrating a growing need for home monitoring systems.</li>
+            </ul>
+        </li>
+        <li>
+            <span class="highlight">Research Problem / Problem Statement:</span>
+            <ul>
+                <li><strong>Role:</strong> Narrows down the background to a specific issue. It highlights the "gap" in current literature and states the exact problem the paper addresses. Typically split into two parts: the research gap followed by the project's problem statement.</li>
+                <li><strong>Example:</strong> <em>"Quantitative-based empirical research on consumer acceptance of IoT-enabled security facilities in homes is currently scarce. It is vital to determine the factors that influence the intention to adopt IoT for home security in Dhaka households."</em></li>
+            </ul>
+        </li>
+        <li>
+            <span class="highlight">Research Questions (RQs) and Research Objectives (ROs):</span>
+            <ul>
+                <li><strong>Role:</strong> Formulates specific, measurable questions that the study will answer, and lists matching objectives. At the BSc level, 2–3 questions are typical. Each RQ must map directly to an RO.</li>
+                <li><strong>Example:</strong>
+                    <br><strong>RQ1:</strong> What factors influence home-owners' willingness to install smart locks?
+                    <br><strong>RO1:</strong> To identify the key factors influencing home-owners' adoption intention of smart locks.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <span class="highlight">Significance / Motivation of the Study:</span>
+            <ul>
+                <li><strong>Role:</strong> Explains why the study is worth conducting and who will benefit from it (at an individual, social, national, or global level). It should be concrete and specific.</li>
+                <li><strong>Example:</strong> <em>"This study will benefit urban households by providing guidelines for choosing cost-effective security tools, which could potentially reduce burglary attempts in Dhaka city, safeguarding lives and assets for over 15 million residents."</em></li>
+            </ul>
+        </li>
+        <li>
+            <span class="highlight">Scope and Delimitations:</span>
+            <ul>
+                <li><strong>Role:</strong> Sets the boundaries of the research project. The <em>scope</em> is the breadth of the study (what is included), while <em>delimitation</em> is the depth of the study (what the researcher chose to exclude and why). It answers the six questions: Why, What, Where, When, Who, and How.</li>
+                <li><strong>Example:</strong> The study covers household heads in Dhaka city (Who & Where) using a quantitative survey (How) from 2024 to 2026 (When) to evaluate IoT adoption. It excludes commercial properties and other cities (Delimitation).</li>
+            </ul>
+        </li>
+        <li>
+            <span class="highlight">Structure of the Thesis:</span>
+            <ul>
+                <li><strong>Role:</strong> Provides a brief outline of the subsequent chapters of the paper to orient the reader.</li>
+                <li><strong>Example:</strong> <em>"The remainder of this thesis is organized as follows: Chapter 2 reviews literature on IoT adoption; Chapter 3 outlines our methodology; Chapter 4 presents findings; Chapter 5 discusses results; and Chapter 6 concludes the study."</em></li>
+            </ul>
+        </li>
+    </ol>
+
+    <!-- Question 2.a -->
+    <table class="q-table" style="page-break-before: always;">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #1d4ed8;">Question 2. a)</strong><br>
+                Based on the provided abstract, construct a high-level workflow diagram of the proposed white blood cell classification approach, showing the pipeline data input to final output. <strong>[Marks: 5] (CO2)</strong>
+            </td>
+        </tr>
+    </table>
+
+    <h3 style="color: #0f766e;">Solution:</h3>
+    <p>Based on the abstract provided in the exam paper, the high-level workflow for the proposed white blood cell (WBC) classification approach proceeds in a sequential pipeline from data input to final deployment:</p>
+    
+    <!-- Workflow Diagram using robust Table layout -->
+    <table class="wf-table">
+        <tr>
+            <td style="width: 21%;">
+                <div class="wf-box">
+                    1. Data Input
+                    <div class="wf-desc">Raw White Blood Cell (WBC) images</div>
+                </div>
+            </td>
+            <td class="wf-arrow">&rarr;</td>
+            <td style="width: 25%;">
+                <div class="wf-box">
+                    2. Image Pre-processing
+                    <div class="wf-desc">Padding, thresholding, erosion, dilation, & masking</div>
+                </div>
+            </td>
+            <td class="wf-arrow">&rarr;</td>
+            <td style="width: 25%;">
+                <div class="wf-box">
+                    3. Model Training
+                    <div class="wf-desc">Enhanced CNN; hyperparameter & structural tuning</div>
+                </div>
+            </td>
+            <td class="wf-arrow">&rarr;</td>
+            <td style="width: 21%;">
+                <div class="wf-box">
+                    4. Comparative Evaluation
+                    <div class="wf-desc">Compare vs. InceptionV3, MobileNetV2, DenseNet201</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="7" style="height: 15px;"></td>
+        </tr>
+        <tr>
+            <td>
+                <div class="wf-box-alt">
+                    7. Final Output & Deployment
+                    <div class="wf-desc">Web & Android platforms for medical professionals</div>
+                </div>
+            </td>
+            <td class="wf-arrow">&larr;</td>
+            <td>
+                <div class="wf-box-alt">
+                    6. E2E System Integration
+                    <div class="wf-desc">Integrate the most efficient model into E2E system</div>
+                </div>
+            </td>
+            <td class="wf-arrow">&larr;</td>
+            <td colspan="3">
+                <div class="wf-box-alt" style="text-align: center;">
+                    5. Model Explainability & Localization
+                    <div class="wf-desc">Explain with SHAP & LIME. Apply Grad-CAM & Grad-CAM++ (Grad-CAM++ localized better).</div>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+    <h3 style="margin-top: 15px;">Detailed Stage Breakdown:</h3>
+    <ul>
+        <li><strong>Stage 1: Data Input:</strong> Acquisition of raw white blood cell (WBC) images.</li>
+        <li><strong>Stage 2: Image Pre-processing:</strong> Minimizes noise and enhances features using padding, thresholding, erosion, dilation, and masking.</li>
+        <li><strong>Stage 3: Proposed Model Optimization:</strong> Training of an enhanced Convolutional Neural Network (CNN) through experimentation with various architectures and hyperparameters.</li>
+        <li><strong>Stage 4: Comparative Evaluation:</strong> Performance comparison of the proposed model against three transfer learning baselines (Inception V3, MobileNetV2, and DenseNet201). (Achieved: 99.12% accuracy, 99% precision, 99% F1-score).</li>
+        <li><strong>Stage 5: Model Explainability:</strong>
+            <ul>
+                <li><em>Interpretability:</em> Employs SHAP and LIME to explain model decision-making.</li>
+                <li><em>Localization:</em> Employs Grad-CAM and Grad-CAM++ for class-discriminative localization (with Grad-CAM++ showing superior accuracy in identifying the predicted area's location).</li>
+            </ul>
+        </li>
+        <li><strong>Stage 6: System Integration:</strong> Integration of the best-performing model into an End-to-End (E2E) pipeline.</li>
+        <li><strong>Stage 7: Output & Deployment:</strong> Final user interfaces (Web and Android apps) for medical professionals to classify white blood cells.</li>
+    </ul>
+
+    <!-- Question 2.b -->
+    <table class="q-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #1d4ed8;">Question 2. b)</strong><br>
+                Write a Related Work describing a deep learning-based method for white blood cell classification based on the information stated in the abstract. <em>Note: Should be written in academic style and must not introduce any details that are not explicitly stated in the abstract.</em> <strong>[Marks: 5]</strong>
+            </td>
+        </tr>
+    </table>
+
+    <h3 style="color: #0f766e;">Solution (Academic Related Work):</h3>
+    <p>In the field of computer-aided medical diagnostics, the automated detection and classification of white blood cells (WBCs) using deep learning has received significant attention. Specifically, Ran, Uslu, Brubaker, and Trapecar [1] developed an enhanced Convolutional Neural Network (CNN) model to achieve precise WBC classification. To mitigate image noise and improve feature representation, the authors integrated multiple image pre-processing operations, including padding, thresholding, erosion, dilation, and masking. To optimize performance, they experimented with various architectural structures and hyperparameters. In their comparative evaluation, the proposed model was benchmarked against three established transfer learning architectures: Inception V3, MobileNetV2, and DenseNet201. The proposed model outperformed these baselines, achieving a testing accuracy of 99.12%, precision of 99%, and an F1-score of 99%. To address the opacity of deep neural networks, the researchers utilized Shapley Additive Explanations (SHAP) and Local Interpretable Model-agnostic Explanations (LIME) to provide transparency in model decision-making. Furthermore, class-discriminative localization was implemented using Grad-CAM and Grad-CAM++, where Grad-CAM++ demonstrated slightly better performance in pinpointing the predicted areas. Finally, this optimized classification model was integrated into an end-to-end (E2E) system deployed across web and Android platforms for clinical use [1].</p>
+
+    <!-- Question 3 -->
+    <table class="q-table" style="page-break-before: always;">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #1d4ed8;">Question 3. a)</strong><br>
+                A group of final-year students is developing a machine learning project to predict diseases using patient medical records collected from a local clinic. They receive the data from the clinic staff but do not clearly explain to the patients how their data will be used in the project. The dataset also contains personal information such as names and contact details. 
+                <br>Identify the ethical issues in this situation. Explain how the students should ensure privacy, obtain proper informed consent, and maintain data integrity while conducting their research. <strong>[Marks: 2+6 = 8] (CO3)</strong>
+            </td>
+        </tr>
+    </table>
+
+    <h3 style="color: #0f766e;">Solution:</h3>
+    <h4>1. Ethical Issues Identified:</h4>
+    <ul>
+        <li><strong>Lack of Informed Consent (Violation of Autonomy):</strong> Collecting and using patient medical records without explaining the project's purpose or securing patient permission violates the principle of informed consent. Patients have the right to know how their data is being used.</li>
+        <li><strong>Breach of Privacy & Confidentiality:</strong> Leaving personally identifiable information (PII) like names and contact details in the dataset violates patient confidentiality. Medical records are highly sensitive; exposing them risks identity theft and social harm.</li>
+        <li><strong>Lack of Data Security & Governance:</strong> Bypassing the Institutional Review Board (IRB) or formal channels of data governance at the university and clinic levels constitutes a serious procedural ethical violation in scientific research.</li>
+        <li><strong>Potential Harm:</strong> Storing un-anonymized medical data creates a risk of data breaches, which could cause psychological, social, or financial harm to the patients.</li>
+    </ul>
+
+    <h4>2. How the Students Can Ensure Ethical Compliance:</h4>
+    
+    <h3 style="color: #1e3a8a;">A. Ensuring Privacy (Data Anonymization and Protection):</h3>
+    <ul>
+        <li><strong>De-identification (Anonymization):</strong> The students must immediately strip all Personally Identifiable Information (PII) from the dataset, including names, contact numbers, addresses, and registration numbers. Each patient should be assigned a random alphanumeric ID (e.g., Patient_001) if tracking is necessary.</li>
+        <li><strong>Data Minimization:</strong> They should only request and retain clinical variables relevant to the prediction model (e.g., blood pressure, blood glucose, age) and ignore non-clinical personal data.</li>
+        <li><strong>Secure Storage:</strong> The dataset must be stored on encrypted drives with restricted access. The files should not be shared publicly or uploaded to unsecured cloud platforms.</li>
+    </ul>
+
+    <h3 style="color: #1e3a8a;">B. Obtaining Proper Informed Consent:</h3>
+    <ul>
+        <li><strong>Informed Consent Process:</strong> The students must work with the clinic to contact the patients. They must explain, in clear and simple language, what the study is, how their data will be used, that it will be anonymized, and that the outcomes are for research purposes.</li>
+        <li><strong>Voluntary Participation:</strong> Patients must be given a consent form where they can agree or decline to have their data included. The form must state that they can withdraw their consent at any time without affecting their medical care at the clinic.</li>
+        <li><strong>Institutional Review Board (IRB) Approval:</strong> The students must submit their research proposal to the university's Ethical Review Committee/IRB. They must show written authorization from both the clinic administration and the patients before proceeding.</li>
+    </ul>
+
+    <h3 style="color: #1e3a8a;">C. Maintaining Data Integrity:</h3>
+    <ul>
+        <li><strong>Preventing Fabrication and Falsification (Honesty):</strong> The students must report results exactly as they are. They must never fabricate mock patient records to balance the dataset or alter classification results to show higher accuracy.</li>
+        <li><strong>Methodological Rigor and Error Mitigation (Carefulness):</strong> They must keep a documented audit trail of all data preprocessing, cleaning, and model development steps to ensure the study is reproducible and free from negligent coding errors.</li>
+        <li><strong>Avoiding Bias (Objectivity):</strong> The model must be evaluated objectively. Any limitations in the dataset (such as under-representing certain demographics) must be clearly stated in the final report rather than hidden.</li>
+    </ul>
+
+    <div style="page-break-before: always;"></div>
+
+    <h2>PART 2: Comprehensive Lecture Notes & Study Material</h2>
+
+    <!-- Topic 1 -->
+    <h2>Topic 1: Introduction, Research Gap, and Scope</h2>
+    
+    <table class="c-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #15803d; font-size: 11pt;">Concept: Research Scope vs. Delimitations</strong><br>
+                Remember this simple formula for exam questions asking about the boundaries of research:<br>
+                • <strong>Scope (Breadth):</strong> The overall parameters and boundaries of the research project (what is included, the potential variables, and general goals).<br>
+                • <strong>Delimitations (Depth):</strong> The choices made by the researcher to narrow the focus of the study (what is excluded and why). Delimitation is within the researcher's control.<br>
+                • <strong>A Good Scope Statement</strong> must answer six questions: (1) <em>Why</em> (Purpose/Objectives), (2) <em>What</em> (Topic/Variables), (3) <em>Where</em> (Location), (4) <em>When</em> (Timeframe), (5) <em>Who</em> (Population/Sample), (6) <em>How</em> (Methods/Tools).
+            </td>
+        </tr>
+    </table>
+
+    <h3>Types of Research Gaps (High Probability Exam Topic)</h3>
+    <p>A research gap is an unexplored or under-explored area in literature. There are seven distinct types:</p>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th style="width: 25%;">Gap Type</th>
+                <th style="width: 45%;">Definition</th>
+                <th style="width: 30%;">Exam Example</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>1. Evidence Gap</strong></td>
+                <td>Results from previous studies are contradictory when examined from an abstract viewpoint.</td>
+                <td>Study A finds IoT devices increase stress, while Study B finds they reduce stress.</td>
+            </tr>
+            <tr>
+                <td><strong>2. Knowledge Gap</strong></td>
+                <td>Desired research findings or data do not exist at all in the current literature.</td>
+                <td>No prior studies exist on the adoption of smart mirrors in Dhaka.</td>
+            </tr>
+            <tr>
+                <td><strong>3. Practical-Knowledge Conflict</strong></td>
+                <td>Real-world professional practice deviates from published research findings.</td>
+                <td>Doctors do not use AI tools despite studies showing they are 99% accurate.</td>
+            </tr>
+            <tr>
+                <td><strong>4. Methodological Gap</strong></td>
+                <td>A variation in research methods is needed to generate new insights or avoid distorted findings.</td>
+                <td>All prior studies used surveys; a qualitative interview approach is needed instead.</td>
+            </tr>
+            <tr>
+                <td><strong>5. Empirical Gap</strong></td>
+                <td>Prior research propositions or theories have not yet been empirically tested or verified.</td>
+                <td>A model has been proposed theoretically but never tested with actual user data.</td>
+            </tr>
+            <tr>
+                <td><strong>6. Theoretical Gap</strong></td>
+                <td>A lack of theoretical frameworks for a topic, or a need to apply a theory to a new domain.</td>
+                <td>Applying Protection Motivation Theory (PMT) to smart lock adoption for the first time.</td>
+            </tr>
+            <tr>
+                <td><strong>7. Population Gap</strong></td>
+                <td>A specific demographic or population is under-represented in prior research.</td>
+                <td>Prior research on smart homes focused on the US; no studies exist on Gen-Z in Bangladesh.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table class="e-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #b45309; font-size: 11pt;">Pro-Tip for Exam: Points to Avoid when Stating Gaps</strong><br>
+                • Avoid excessive descriptions or lists of past studies. Keep it indicative.<br>
+                • Do not present too much statistical information. Focus on the core limitation.<br>
+                • Never fail to provide supporting citations for the gap you claim exists.<br>
+                • Always explicitly state the significance of closing the identified gap.
+            </td>
+        </tr>
+    </table>
+
+    <!-- Topic 2 -->
+    <h2 style="page-break-before: always;">Topic 2: Literature Review and IEEE Referencing</h2>
+    
+    <table class="c-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #15803d; font-size: 11pt;">Concept: Synthesizing Literature vs. Writing Lists</strong><br>
+                A bad literature review reads like a list: <em>"Smith said X. Jones said Y."</em> A good literature review synthesizes trends by grouping sources chronologically, thematically, or by techniques.<br>
+                • <strong>Example of Group Citations:</strong> <em>"Several studies emphasize the use of colons to distinguish a paper's thematic focus (Smith, 1999; James, 2002; Webster, 2007)."</em>
+            </td>
+        </tr>
+    </table>
+
+    <h3>Two Types of Citations:</h3>
+    <ul>
+        <li><strong>Integral Citation:</strong> The author's name appears directly in the sentence structure.
+            <br><em>Example:</em> <strong>Lillis (2001)</strong> argues that students often lack explicit knowledge of academic writing conventions.
+        </li>
+        <li><strong>Non-integral Citation:</strong> The author's name appears outside the sentence, usually in parentheses or brackets.
+            <br><em>Example:</em> Students often lack explicit knowledge of academic writing conventions <strong>(Lillis, 2001)</strong>.
+        </li>
+    </ul>
+
+    <h3>IEEE Referencing Guide (Strict Formatting Rules)</h3>
+    <ul>
+        <li><strong>In-text citations</strong> are numbered in square brackets (e.g., `[1]`, `[2, 3]`). They are numbered in the order they appear in the text.</li>
+        <li><strong>Author names in-text:</strong> If there are 3 or more authors, abbreviate with "et al." (e.g., <em>"Fan et al. [4] argued..."</em>).</li>
+        <li><strong>Author names in reference list:</strong> Write all authors' names. Only use "et al." if there are <strong>6 or more authors</strong>.</li>
+    </ul>
+
+    <h4>Common Reference Templates & Examples:</h4>
+    <ol>
+        <li>
+            <strong>Book Reference:</strong>
+            <br><em>Template:</em> [Ref #] Author's initials. Author's Surname, <em>Book Title</em>, edition. Place of publication: Publisher, Year.
+            <br><em>Example:</em> [1] I. A. Glover and P. M. Grant, <em>Digital Communications</em>, 3rd ed. Harlow: Prentice Hall, 2009.
+        </li>
+        <li>
+            <strong>Journal Article:</strong>
+            <br><em>Template:</em> [Ref #] Author's initials. Surname, "Title of article," <em>Journal Name</em>, vol. x, pp. xx-xx, Month Year.
+            <br><em>Example:</em> [2] F. Yan, Y. Gu, and Y. Wang, "Laser-rock interaction mechanism," <em>Optics & Laser Tech.</em>, vol. 54, pp. 303-308, Dec. 2013.
+        </li>
+        <li>
+            <strong>Conference Paper:</strong>
+            <br><em>Template:</em> [Ref #] Author's initials. Surname, "Title of paper," in <em>Name of Conference</em>, Location, Year, pp. xx-xx.
+            <br><em>Example:</em> [3] S. Adachi et al., "VUV single-order harmonic pulse," in <em>Conf. Lasers and Electro-Optics</em>, San Jose, CA, 2012, pp. 2118-2120.
+        </li>
+        <li>
+            <strong>Thesis / Dissertation:</strong>
+            <br><em>Template:</em> [Ref #] Author's initials. Surname, "Title of thesis," Ph.D. dissertation, Dept. Name, Univ. Name, City, State, Year.
+            <br><em>Example:</em> [4] J. O. Williams, "Narrow-band analyser," Ph.D. dissertation, Dept. Elect. Eng., Harvard Univ., Cambridge, MA, 1993.
+        </li>
+        <li>
+            <strong>Website / Electronic Document:</strong>
+            <br><em>Template:</em> [Ref #] Author's initials/Corporate Author. (Year, Month Day). Title of page [Online]. Available: URL
+            <br><em>Example:</em> [5] BBC News. (2013, Nov. 11). Microwave signals turned into electrical power [Online]. Available: http://www.bbc.co.uk/news/technology-24897584
+        </li>
+    </ol>
+
+    <!-- Topic 3 -->
+    <h2 style="page-break-before: always;">Topic 3: Results, Discussion, and Conclusion</h2>
+    
+    <h3>Results vs. Discussion vs. Conclusion</h3>
+    <ul>
+        <li><strong>Results:</strong> Presents data simply and objectively. Contains no speculation or interpretation. Tables and figures belong here.</li>
+        <li><strong>Discussion:</strong> Interprets the meaning of the results, relates them back to the literature, discusses implications, limitations, and future work.</li>
+        <li><strong>Conclusion:</strong> Summarizes the main findings and explicitly answers the research questions (RQs) proposed in Chapter 1.</li>
+    </ul>
+
+    <table class="c-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #15803d; font-size: 11pt;">The 7-Step Structure of a Discussion Section</strong><br>
+                <strong>Step 1:</strong> Restate the core research problem and research questions.<br>
+                <strong>Step 2:</strong> Summarize the key findings (e.g., <em>"The analysis identifies..."</em>).<br>
+                <strong>Step 3:</strong> Interpret the results (Why did we get this? How does it compare with prior work?).<br>
+                <strong>Step 4:</strong> Acknowledge the limitations of your study (to build credibility, not show failure).<br>
+                <strong>Step 5:</strong> Make recommendations for practical implementation.<br>
+                <strong>Step 6:</strong> Deliberate on theoretical and practical implications.<br>
+                <strong>Step 7:</strong> Provide a concluding summary that links back to the introduction.
+            </td>
+        </tr>
+    </table>
+
+    <table class="e-table">
+        <tr>
+            <td style="padding: 10px; font-size: 10pt; line-height: 1.5; border: none;">
+                <strong style="color: #b45309; font-size: 11pt;">Important Guidelines for the Conclusion & Discussion Chapters</strong><br>
+                • <strong>Answering RQs:</strong> In the Conclusion, you must explicitly answer each RQ by name (e.g., <em>"As per the answer to RQ1..."</em>).<br>
+                • <strong>Limitations Timeframe:</strong> In the Limitations and Future Work sections, you must highlight <strong>2–3 issues that can be resolved within a 3–6 month timeframe</strong>. Do not suggest endless or impossible tasks.<br>
+                • <strong>No Tables/Figures in Discussion:</strong> Keep tables and figures strictly in the Results section. The Discussion section should be text-based interpretation.<br>
+                • <strong>No Inflation:</strong> Do not make claims or generalize results beyond what your collected data can actually support.
+            </td>
+        </tr>
+    </table>
+
+    <!-- Topic 4 -->
+    <h2 style="page-break-before: always;">Topic 4: Research Fundamentals & Designs</h2>
+    
+    <h3>1. General Approaches: Qualitative vs. Quantitative</h3>
+    <ul>
+        <li><strong>Qualitative:</strong> Uses an <span class="highlight">inductive approach</span> (from facts to theory). Focuses on understanding human behavior through words, interviews, videos, or objects.
+            <br><em>Steps:</em> Acknowledge Social Self &rarr; Actual Perspective &rarr; Design Study &rarr; Collect Data &rarr; Analyze Data &rarr; Interpret &rarr; Inform Others &rarr; Formulate Theory.
+        </li>
+        <li><strong>Quantitative:</strong> Uses a <span class="highlight">deductive approach</span> (from theory to facts). Relates numerical variables to establish cause-effect relationships and make predictions.
+            <br><em>Steps:</em> Select Topic &rarr; Focus Question &rarr; Design Study &rarr; Collect Data &rarr; Analyze Data &rarr; Interpret &rarr; Inform Others.
+        </li>
+    </ul>
+
+    <h3>2. Types of Research (By Purpose)</h3>
+    <ul>
+        <li><strong>Basic / Pure / Fundamental Research:</strong> Driven by curiosity to expand knowledge. It has no immediate commercial value. (e.g., <em>"How did the universe begin?"</em>).</li>
+        <li><strong>Applied Research:</strong> Aims to solve practical, everyday problems, cure illnesses, or build technologies. (e.g., <em>"How to improve home energy efficiency?"</em>).</li>
+    </ul>
+
+    <h3>3. Key Research Designs</h3>
+    <ul>
+        <li><strong>Exploratory:</strong> Used when a problem is not clearly defined. Helps determine the best research design and data collection methods for future studies.</li>
+        <li><strong>Descriptive:</strong> Provides an accurate portrayal of a group or situation. Popularly uses surveys and questionnaires.</li>
+        <li><strong>Experimental:</strong> An objective, systematic, controlled study to examine probability and causality among variables.</li>
+        <li><strong>Causal Comparative / Ex Post Facto:</strong> Explores cause-effect relationships where the cause already exists and cannot be manipulated. It looks backward to explain why.</li>
+        <li><strong>Correlational:</strong> Explores relationships between variables to make predictions without establishing direct causality.</li>
+    </ul>
+
+</body>
+</html>

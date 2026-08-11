@@ -1,0 +1,134 @@
+METHODOLOGY
+Dr. Arif Mahmud
+
+Associate Professor & Associate Head
+
+Department of CSE, Daffodil International University
+
+DEFINITION
+ Schwardt
+
+(2007:195)
+defines
+research
+methodology as a theory of how an inquiry should
+proceed. It involves analysis of the assumptions,
+principles and procedures in a particular
+approach to inquiry. According to Creswell and
+Tashakkori (2007), and Teddlie and Tashakkori
+(2007), methodologies explicate and define the
+kinds of problems that are worth investigating;
+what constitutes a researchable problem; testable
+hypotheses; how to frame a problem in such a
+way that it can be investigated using particular
+designs and procedures; and how to select and
+develop appropriate means of collecting data.
+
+METHODOLOGY
+ It is the part of the proposal or research paper
+
+that describes the methods used to collect the
+data
+ It follows the introduction and literature review
+ It allows the reader to understand how the data
+were analyzed, and to judge for himself if the
+methods were justified
+ It should be detailed enough for a good researcher
+to be able to replicate the study from reading the
+method section
+
+METHODOLOGY SECTIONS
+ Participants: Who was in the study
+ Procedure: What happened in the study
+ Measures/Materials: What measures were used—
+
+like surveys Or what materials—like special lab
+equipment
+ Analysis section: Describes the statistical
+analysis
+
+PROCESS
+
+APPROACH
+
+TO INCLUDE
+ An
+
+outline of the research methods chosen
+(qualitative, quantitative, or mixed methods)
+ Background and rationale for the methods chosen,
+explaining why one method was chosen over another
+ Methods used for data collection and data analysis
+ Materials and equipment used—keep this brief
+ Difficulties encountered during data collection and
+analysis.
+ A brief evaluation of your research explaining whether
+your results were conclusive and whether your choice
+of methodology was effective in practice
+
+TO AVOID
+ Irrelevant
+
+details, for example, an extensive
+review of methodologies (this belongs in the
+literature review section) or information that
+does not contribute to the readers’ understanding
+of your chosen methods
+ A description of basic procedures
+ Excessive details about materials and equipment
+used. If an extremely long and detailed list is
+necessary, add it as an appendix
+ Raw data
+
+SUMMARY
+
+CHECKLIST
+Introduce your methodological approach, for example,
+quantitative, qualitative, or mixed methods.
+ Explain why your chosen approach is relevant to the overall
+research design and how it links with your thesis question.
+ Justify your chosen method and why it is more appropriate
+than others.
+ Provide
+background information on methods that may
+be unfamiliar to readers of your thesis.
+ Introduce the tools that you will use for data collection, and
+explain how you plan to use them (e.g., surveys, interviews,
+experiments, or existing data).
+ Explain how you will analyze your results. The type of
+analysis used depends on the methods you chose. For example,
+exploring theoretical perspectives to support your explanation of
+observed behaviors in a qualitative study or using statistical
+analyses in a quantitative study.
+ Mention any research limitations. Discussing the limitations
+justifies your choice of methodology despite the risks. It also
+explains under which conditions the results should be interpreted
+and shows that you have taken a holistic approach to your study.
+
+
+FURTHER READING
+Sekaran, U. (2003). Research methods for
+business: A skill-building approach (4th ed.). New
+York: John Wiley & Sons.
+
+Bhattacherjee, A. (2012). Social science research:
+Principles, methods, and practices (2nd ed.).
+University of South Florida: Creative Commons
+Attribution. Retrieved from https://scholarcommo
+ns.usf.edu/cgi/viewcontent.cgi?article=1002&cont
+ext=oa_textbooks
+
+Bryman, A. (2012). Social Research Methods (4th
+ed.), New York: Oxford University Press.
+
+Creswell, J. W. (2014). Research Design:
+Qualitative, Quantitative and Mixed Methods
+Approaches (4th ed.). Thousand Oaks, California:
+Sage.
+
+
+THE END
+
+Thank You
+
+

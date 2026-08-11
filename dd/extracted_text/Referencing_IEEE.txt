@@ -1,0 +1,239 @@
+THESIS WRITING GUIDELINES
+Dr. Arif Mahmud
+
+Associate Professor & Associate Head
+
+Department of CSE, Daffodil International University
+
+IEEE REFERENCING STYLE SHEET
+ Citations
+ When
+
+writing a piece of academic work, you must
+acknowledge any sources which you have used. You do
+this by including a brief in-text ‘citation’ within the
+main body of your writing, next to the material you
+have used.
+ References
+ At the end of your work, list full details of all of the
+sources which you have cited in your text in a section
+headed References, in numeric order. References
+listed must follow IEEE formatting guidelines (see
+reference examples overleaf). Your reference list
+should allow anyone reading your work to identify and
+find the material to which you have referred.
+
+CITATIONS
+Here are some examples of IEEE style citation:
+ “... as shown by Brown [4], as previously stated.”
+ "The theory was first put forward in 1987 [1]."
+ “For example, see [7].”
+ "Several recent studies [3, 4, 15, 16] have suggested
+that..."
+ The example above may also be formatted as:
+“Several recent studies [3], [4], [15], [16] have suggested
+that…”
+Page numbers are required within citations where
+material is directly quoted or you refer to a specific part
+of the source, such as a detail difficult to find. Give page
+numbers within the square brackets, for example [1, p.
+3].
+
+CITATIONS/REFERENCES WITH MULTIPLE
+AUTHORS
+ If you choose to mention the author(s) of a source
+
+whilst citing it in the text of your work, if there
+are three or more you can abbreviate them using
+‘et al.’ e.g. During their research, Fan, et al. [4]
+discuss lasers in detail. However, in general you
+do not need to mention the authors by name, just
+use the numeric citation in square brackets. In
+your full reference list at the end however, you
+always give the authors’ names. In the reference
+list you can only abbreviate these using ‘et al.’ if
+there are six or more authors.
+
+REFERENCE EXAMPLES
+ Book
+
+
+
+[Ref number] Author’s initials. Author’s Surname, Book Title, edition (if not
+first). Place of publication: Publisher, Year.
+[1] I.A. Glover and P.M. Grant, Digital Communications, 3rd ed. Harlow:
+Prentice Hall, 2009.
+
+ Book chapter
+
+
+
+
+[Ref number] Author’s initials. Author’s Surname, “Title of chapter in book,” in
+Book Title, edition (if not first), Editor’s initials. Editor’s Surname, Ed. Place of
+publication: Publisher, Year, page numbers.
+[2] C. W. Li and G. J. Wang, "MEMS manufacturing techniques for tissue
+scaffolding devices," in Mems for Biomedical Applications, S. Bhansali and A.
+Vasudev, Eds. Cambridge: Woodhead, 2012, pp. 192-217.
+
+ Electronic Book
+
+
+
+
+[Ref number] Author’s initials. Author’s Surname. (Year, Month Day). Book
+Title (edition) [Type of medium]. Available: URL
+[3] W. Zeng, H. Yu, C. Lin. (2013, Dec 19). Multimedia Security Technologies for
+Digital Rights Management [Online]. Available: http://goo.gl/xQ6doi
+Note: If the e-book is a direct equivalent of a print book e.g. in PDF format, you
+can reference it as a normal print book.
+
+REFERENCE EXAMPLES
+Journal article
+ [Ref number] Author’s initials. Author’s Surname, “Title of article,”
+Title of journal abbreviated in Italics, vol. number, issue
+ number, page numbers, Abbreviated Month Year.
+ [4] F. Yan, Y. Gu, Y. Wang, C. M. Wang, X. Y. Hu, H. X. Peng, et al.,
+"Study on the interaction mechanism between laser and rock during
+perforation," Optics and Laser Technology, vol. 54, pp. 303-308, Dec
+2013.
+ Note: the above example article is from a journal which does not use
+issue numbers, so they are not included in the reference.
+ E-Journal article
+ PDF versions of journal articles are direct copies of the print edition,
+so you can cite them as print journals.
+ [Ref number] Author’s initials. Author’s Surname. (Year, Month).
+“Title of article.” Journal Title [type of medium]. volume number,
+issue number, page numbers if given. Available: URL
+ [5] M. Semilof. (1996, July). “Driving commerce to the web-corporate
+intranets and the internet: lines blur”. Communication Week [Online].
+vol. 6, issue 19. Available: http://www.techweb.com/se/directlinkcgi?
+CWK19960715S0005
+
+
+REFERENCE EXAMPLES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conference papers
+[Ref number] Author’s initials. Author’s Surname, “Title of paper,” in Name of
+Conference, Location, Year, pp. xxx.
+[6] S. Adachi, T. Horio, T. Suzuki. "Intense vacuum-ultraviolet single-order
+harmonic pulse by a deep-ultraviolet driving laser," in Conf. Lasers and ElectroOptics, San Jose, CA, 2012, pp.2118-2120.
+Standard abbreviations may be applied to the title of the conference. For a table
+of abbreviations go to: http://www.ieee.org/documents/ieeecitationref.pdf
+Reports
+The general form for citing technical reports is to place the name and location
+of the company or institution after the author and title
+and to give the report number and date at the end of the reference. If the report
+has a volume number add it after the year.
+[Ref number] Author’s initials. Author’s Surname, “Title of report,”
+Abbreviated Name of Company., City of Company., State, Report number, year.
+[7] P. Diament and W. L. Luptakin, “V-line surface-wave radiation and
+scanning,” Dept. Elect. Eng., Colombia Univ., New York, Sci Rep. 85, 1991.
+Patents
+[Ref number] Author’s initials. Author’s Surname, “Title of patent,” Country
+where patent is registered. Patent number, Abbrev of Month Day Year.
+[8] J. P. Wilkinson, “Nonlinear resonant circuit devices,” U.S. Patent 3 624 125,
+July 16 1990.
+
+REFERENCE EXAMPLES
+Standards
+
+[Reference number] Title of Standard, Standard
+number, date.
+
+[9] Shunt power capacitors, IEEE standard 182012, 2013.
+
+Theses/Dissertations
+
+[Ref number] Author’s initials. Author’s
+Surname, “Title of thesis,” Designation type,
+Abbrev. Dept., Abbrev. Univ., City of Univ., State,
+Year.
+
+[10] J. O. Williams, “Narrow-band analyser,”
+Ph.D. dissertation, Dept. Elect. Eng., Harvard
+Univ., Cambridge, MA, 1993.
+
+
+REFERENCE EXAMPLES
+Datasheets
+ [Ref number] Author’s initials. Authors Surname, “Title of
+Datasheet,” Part datasheet, Publication date [Latest revision date].
+ [11] Texas Instruments, “High speed CMOS logic analog
+multiplexers/demultiplexers,” 74HC4051 datasheet, Nov. 1997
+ [Revised Sept. 2002].
+ Online Documents
+ If you are using documents such as a report, conference paper,
+standard, patent or thesis online and it also exists as an identical
+print equivalent i.e. with the same format and pagination, it can be
+usually be referenced as the print version.
+ If it is e-only, you can make the standard reference template an
+electronic version by adding the material type in square brackets e.g.
+[Online] after the document title. If there is no specific document title
+you can place this after the document number (e.g. patent number).
+ At the end of the reference add: Available: URL. See below for an
+example of an online patent:
+ [12] M.R. Brooks, “Musical toothbrush with adjustable neck and
+mirror,” U.S Patent 326189 [Online], May 19 1992. Available:
+http://goo.gl/VU1WEk
+
+
+REFERENCE EXAMPLES
+
+
+Websites
+
+
+
+Note: Include as much of the key information as you can find for a
+given website. If a web page has no personal author, you can use a
+corporate author. Failing that, you can use either Anon. (for
+anonymous) or it is permissible to use the title of the site.
+
+
+
+[Ref number] Author’s initials. Authors Surname. (Year, Month.
+Day). Title of web page [Online]. Available: URL
+
+
+
+[13] BBC News. (2013, Nov. 11). Microwave signals turned into
+electrical power [Online]. Available:
+http://www.bbc.co.uk/news/technology-24897584
+
+
+
+[14] M. Holland. (2002). Guide to citing internet sources [Online].
+Available:
+http://www.bournemouth.ac.uk/library/using/guide_to_citing_inte
+rnet_sourc.html
+
+REFERENCE EXAMPLES
+ This referencing style sheet is to be used in
+
+conjunction with the Library’s general
+ IEEE style is used mainly in Electronic and
+Electrical Engineering and Computer Science.
+This style sheet gives general guidelines based on
+the IEEE’s citation and referencing guide:
+https://www.ieee.org/documents/ieeecitationref.pd
+f
+
+THE END
+
+Thank You
+
+

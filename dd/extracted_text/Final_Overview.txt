@@ -1,0 +1,160 @@
+THESIS WRITING GUIDELINES
+Dr. Arif Mahmud
+
+Associate Professor & Associate Head
+
+Department of CSE, Daffodil International University
+
+TEMPLATE
+ Follow the template properly
+ https://docs.google.com/document/d/1RefrffGqICy
+
+KxnBiGQIDZuZS3w5tF9PL/edit?usp=sharing&o
+uid=115592112345823669860&rtpof=true&sd=tr
+ue
+
+ELEMENTS
+ Abstract
+ Introduction
+ Background and Literature review
+ Methodology/model
+ Implementation (Optional)
+ Results (can be merged with Implementation too)
+ Discussion and Conclusion ( include Implications,
+
+Limitations and Future Work)
+ References
+ N.B: All the chapters have to be interlinked and
+dependent on each other
+
+INTRODUCTION
+Think of the introduction as a mental road map
+that must answer for the reader these four
+questions:
+ What was I studying?
+ Why was this topic important to investigate?
+ What did we know about this topic before I did
+
+this study?
+ How will this study advance our knowledge?
+ Suggestions: 5-7 pages at BSc level (1500+ words)
+
+BACKGROUND
+ The
+
+background of the study establishes the
+context of the research. This section explains why
+this particular research topic is important and
+essential to understanding the main aspects of
+the study. Usually, the background forms the first
+section of a research article/thesis and justifies
+the need for conducting the study and
+summarizes what the study aims to achieve.
+ Suggestions: 3-5 pages at BSc level (1500+ words)
+
+LITERATURE REVIEW
+ A literature review is a comprehensive summary
+
+of previous research on a topic. The literature
+review surveys scholarly articles, books, and
+other sources relevant to a particular area of
+research. The review should enumerate, describe,
+summarize, objectively evaluate and clarify this
+previous research.
+ Suggestions: 8-12 pages at BSc level (2500+
+words)
+
+METHODOLOGY/MODEL
+ Methodology
+
+in research is defined as the
+systematic method to resolve a research problem
+through data gathering using various techniques,
+providing an interpretation of data gathered and
+drawing conclusions about the research data.
+ Suggestions: 8-10 pages at BSc level (2500+
+words)
+
+IMPLEMENTATION
+ Implementation research is an integrated concept
+
+that links research and practice to accelerate the
+development and delivery of methods/approaches.
+Implementation involves the creation and
+application of knowledge to improve the
+implementation of policies, programs, and
+practices
+ Suggestions: 8-10 pages at BSc level (2500+
+words)
+
+RESULTS
+The results section is where you report the findings
+of your study based upon the methodology you
+applied to gather information. The results section
+should state the findings of the research arranged
+in a logical sequence without bias or interpretation.
+Suggestions: 5-10 pages at BSc level (1500+ words)
+
+DISCUSSION
+ The purpose of the discussion is to interpret and
+
+describe the significance of your findings in light
+of what was already known about the research
+problem being investigated and to explain any
+new understanding or insights that emerged as a
+result of your study of the problem.
+ Suggestions: 5-10 pages at BSc level (1500+
+words)
+
+CONCLUSION AND IMPLICATIONS
+ In conclusion, answer the research questions that
+
+you proposed in 1st chapter
+ Example:
+ As per answer of RQ1… according to RQ2 ..
+ In implications, highlight theoretical and
+practical (or methodological contribution). I mean
+what are new factors/modifications you have
+included in your theory (algorithms), practically
+or methodologically.
+ In limitations and future works, highlight 2-3
+issues that can be solved within 3-6 months of
+time.
+
+REFERENCES
+ Referencing
+
+can be described as giving credit,
+with citation, to the source of information used in
+one’s work. Research is a buildup on what other
+people have previously done thus referencing
+helps to relate your own work to previous work.
+Unacknowledged use and presenting someone
+else’s ideas as if they were your own can be used
+to describe plagiarism.
+ Suggestions: 30+ references at BSc level
+
+FURTHER RESOURCES
+Creswell, J. W. (2014). Research Design:
+Qualitative, Quantitative and Mixed Methods
+Approaches (4th ed.). Thousand Oaks, California:
+Sage.
+
+Kothari, C.R. (2004). Research Methodology:
+Methods and Techniques (2nd ed.). Delhi: New
+Age International Publishers.
+
+Bryman, A., & Bell, E. (2007). Business research
+methods (2nd ed.). New York: Oxford University
+Press.
+
+Sekaran, U. (2003). Research methods for
+business: A skill-building approach (4th ed.). New
+York: John Wiley & Sons.
+
+
+THE END
+
+Thank You
+
+

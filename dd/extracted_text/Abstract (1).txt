@@ -1,0 +1,113 @@
+RESEARCH & INNOVATION IN
+CSE
+ABSTARCT
+Dr. Arif Mahmud
+Associate Professor & Associate Head
+Department of CSE, Daffodil International University
+
+ABSTRACT
+
+🞆 An abstract is a concise summary of a research
+paper or entire thesis.
+🞆 It is a well-developed single paragraph of
+approximately 250 (100-300 words, but there’s
+often a strict word limit) words in length. The
+function of the abstract is to outline briefly all
+parts of the paper.
+🞆 A good abstract is short but impactful, so make
+sure every word counts.
+
+WHAT TO INCLUDE
+🞆 1. Reason for writing: What is the importance of the
+
+research? Why would a reader be interested in the
+larger work?
+🞆 2. Problem: What problem does this work attempt to
+solve? What is the scope of the project? What is the
+main argument, thesis or claim?
+🞆 3. Methodology: A scientific work may include specific
+models or approaches used in the larger study.
+🞆 4. Results: A scientific work may include specific data
+that indicates the results of the project.
+🞆 5. Implications: How does this work add to the body of
+knowledge on the topic? Are there any practical or
+theoretical applications from your findings or
+implications for future research?
+
+WHAT TO AVOID
+🞆 1. Excessive Length: Avoid verbosity and excessive length in your
+abstract.
+🞆 2. Ambiguity and Vagueness: Clearly define your research
+objectives, methodology, and findings to avoid confusion.
+🞆 3. Inclusion of Unnecessary Details: Focus on presenting the core
+elements of your study, omitting extraneous details that detract
+from the main message.
+🞆 4. Overstating Findings: Present your results accurately and
+objectively, avoiding hyperbole or speculation. Misleading
+statements may erode the credibility of your research and
+undermine trust in your findings.
+🞆 5. Neglecting Proofreading: Neglecting to proofread your abstract
+can result in errors or inconsistencies that detract from its
+quality. Take the time to review your abstract carefully, checking
+for spelling mistakes, grammatical errors, and formatting issues.
+
+EXAMPLE
+🞆 Purpose – The factors that motivate generation-z individuals to use IoT for security purposes have
+yet to be explored. Therefore, the goal of this research is to close a research gap by verifying the
+protection
+motivation
+theory
+using
+gender
+as
+a
+moderator.
+🞆 Design/methodology/approach – We used a purposive sampling approach to collect data from
+Dhaka city in which 370 valid responses were selected. Additionally, the quantitative and crosssectional survey employed a 7-point Likert scale. After that the evaluation approach included
+three phases: a measurement model, a structural model, and multi-group analysis.
+🞆 Findings –Vulnerability, self-efficacy, and response-efficacy were discovered to be critical
+predictors with a variance of 60.4%. Besides, there was a significant disparity between men and
+women
+in
+two
+relationships,
+response
+efficacy
+and
+response
+cost.
+🞆 Practical implications – This research expands our understanding of Gen-Z consumers' behavioral
+intentions to take measures against household threats, allowing preventative programs to be
+improved. Besides, in the case of applying coping strategies, a practical difference between males
+and females has been found that must be bridged through aware campaigns.
+🞆 Originality/value –This study has made a unique contribution to the information system literature.
+First, the role of PMT factors in addressing security concerns in homes utilizing IoT devices has
+been assessed. Second, coping evaluation process has a greater impact on users' intentions than
+the threat appraisal process. However, Males and females use slightly different approaches to
+defending themselves against the threat.
+🞆 Keywords: Burglary, IoT, moderator, PMT, generation-z
+
+WRITING TIPS
+🞆 Make sure the abstract is written clearly and
+concisely.
+🞆 In the abstract, only describe your research’s
+original contributions.
+🞆 Don’t talk about other people’s work.
+🞆 It is not necessary to include citations in an
+abstract.
+🞆 Maintain the word count.
+🞆 Add the keyword list at the bottom of the
+abstract.
+🞆 Completely revise the abstract after writing it
+and correct if there are any errors.
+
+FURTHER RESOURCES
+🞆 http://darwin.bio.uci.edu/~sustain/Abstract.html
+🞆 http://www.cognitrix.com/pages/tips-hints/
+abstracts.pdf
+
+THE END
+
+Thank You
+
+

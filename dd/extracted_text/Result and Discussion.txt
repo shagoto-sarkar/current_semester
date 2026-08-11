@@ -1,0 +1,113 @@
+THESIS WRITING GUIDELINES
+Dr. Arif Mahmud
+
+Associate Professor & Associate Head
+
+Department of CSE, Daffodil International University
+
+RESULTS VS. DISCUSSION VS. CONCLUSION
+ In
+
+the results section, the data are presented
+simply and objectively. No speculation or
+interpretation is given.
+ In the discussion section, the meaning of the
+results is interpreted and put into context (e.g.,
+compared with other findings in the literature),
+and its importance is assigned.
+ In the conclusion section, the results and the
+main conclusion are summarized and ensure that
+objectives are fulfilled.
+
+DISCUSSION
+
+DISCUSSION IN BRIEF
+ Summary: A brief recap of your key results
+ Interpretations: What do your results mean?
+ Implications: Why do your results matter?
+ Limitations: What can’t your results tell us?
+ Recommendations: Avenues for further studies or
+
+analyses
+
+STEPS
+ Step 1: Restate your research problem and research
+
+questions
+ Step 2: Summarize your key findings
+The data suggest that…
+The data support/oppose the theory that…
+The analysis identifies…
+Step 3: Interpret your results
+How do your results relate with those of previous
+studies?
+If you get results that differ from those of previous
+studies, why may this be the case?
+What do your results contribute to your field of
+research?
+What other explanations could there be for your
+findings?
+
+STEPS
+Step 4: Acknowledge the limitations of your study
+
+Step 5: Make recommendations for implementation and future
+research
+
+Step 6:Deliberate the implications
+1) Do your findings support or refute the extant research?
+What new contributions do they add to the existing knowledge?
+2) Are there any substantial differences between your
+results and those of other studies? Suppose they are. What would
+be the reason?
+3) Do your findings uphold or refute the extant theories?
+4) What would you say about the practical implications of
+your results?
+
+
+
+
+Step 7: Provide a concluding summary: confirm that this section
+flows well from and has a strong connection to the opening
+section of the chapter.
+
+TO AVOID
+ Don’t
+
+introduce new results: You should only
+discuss the data that you have already reported
+in your results section.
+ Don’t
+make inflated claims: Avoid over
+interpretation and speculation that isn’t directly
+supported by your data.
+ Don’t undermine your research: The discussion of
+limitations should aim to strengthen your
+credibility, not emphasize weaknesses or failures.
+ Tables and figures (these are usually included in
+the results section)
+
+FURTHER RESOURCES
+Creswell, J. W. (2014). Research Design:
+Qualitative, Quantitative and Mixed Methods
+Approaches (4th ed.). Thousand Oaks, California:
+Sage.
+
+Kothari, C.R. (2004). Research Methodology:
+Methods and Techniques (2nd ed.). Delhi: New
+Age International Publishers.
+
+Bryman, A., & Bell, E. (2007). Business research
+methods (2nd ed.). New York: Oxford University
+Press.
+
+Sekaran, U. (2003). Research methods for
+business: A skill-building approach (4th ed.). New
+York: John Wiley & Sons.
+
+
+THE END
+
+Thank You
+
+

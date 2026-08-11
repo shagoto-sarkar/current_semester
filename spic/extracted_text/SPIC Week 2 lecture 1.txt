@@ -1,0 +1,285 @@
+A GIFT OF FIRE THIRD EDITION - SARA BAASE
+CHAPTER 2: PRIVACY
+
+Lecture 1
+Privacy and Computer Technology
+Md Umaid Hasan
+
+Lecturer, Dept.of CSE
+Daffodil International University
+1
+
+PRIVACY AND COMPUTER TECHNOLOGY
+❏ Three Key Aspects of Privacy:
+
+2
+
+PRIVACY RISKS AND PRINCIPLES
+Privacy threats come in several categories:
+
+❏ Intentional, institutional uses of personal information
+❏
+
+Unauthorized use or release by “insiders”
+
+❏
+
+Theft of information
+
+❏
+
+Inadvertent leakage of information
+
+❏
+
+Our own actions
+
+3
+
+PRIVACY AND COMPUTER TECHNOLOGY
+New Technology, New Risks:
+
+❏ Government and private databases
+○
+
+Thousands of databases containing personal information about us.
+
+○
+
+Profiles of our personal information could be created easily.
+
+❏ Sophisticated tools for surveillance and data analysis
+○
+
+Cameras, GPS, cell phones
+
+❏ Vulnerability of data
+
+○
+
+Leaks of data happens, existence of data presents a risk.
+
+4
+
+PRIVACY RISKS AND PRINCIPLES
+New Technology, New Risks – Examples:
+
+❏ Search query data
+○
+
+Search engines collect many terabytes of data daily.
+
+○
+
+Data is analyzed to target advertising and develop new services.
+
+○
+
+Who gets to see this data? Why should we care?
+
+❏ Smartphones
+❏
+
+Location apps
+
+❏ Data sometimes stored and sent without user’s knowledge
+
+5
+
+PRIVACY RISKS AND PRINCIPLES
+New Technology, New Risks – Summary of Risks:
+
+❏ Anything we do in cyberspace is recorded.
+❏
+
+Huge amounts of data are stored.
+
+❏
+
+People are not aware of collection of data. Software is complex.
+
+❏
+
+Leaks happen.
+
+❏ A collection of small items can provide a detailed picture.
+❏
+
+Re-identification has become much easier due to the quantity of information
+and power of data search and analysis tools.
+
+6
+
+PRIVACY RISKS AND PRINCIPLES
+New Technology, New Risks – Summary of Risks:
+
+❏
+
+If information is on a public Web site, it is available to everyone.
+
+❏ Information on the Internet seems to last forever.
+❏
+
+Data collected for one purpose will find other uses.
+
+❏
+
+Government can request sensitive personal data held by businesses or
+organizations.
+
+❏
+
+We cannot directly protect information about ourselves. We depend upon
+businesses and organizations to protect it.
+
+7
+
+PRIVACY AND COMPUTER TECHNOLOGY (CONT.)
+Terminology and principles for data collection and use:
+
+❏ Invisible information gathering
+❏ Collection of personal information about someone without the person’s
+knowledge
+❏ Unauthorized software, Cookies, ISP providers •
+❏ Secondary use
+❏ Use of personal information for a purpose other than the one it was
+provided for .
+❏ Data mining
+❏ Searching and analyzing masses of data to find patterns and
+develop new information or knowledge
+❏ Computer matching
+❏ Combining and comparing information from different databases
+(using social security number, for example, to match records)
+
+8
+
+Computer profiling
+❏ Using data in computer files to predict likely behaviors of people
+
+❏ Analyzing data in computer files to determine characteristics of people most
+likely to engage in certain behavior
+❏ Businesses find new consumers
+❏ Government detects fraud and crime activities
+❏
+
+Businesses engage in profiling to determine consumer propensity toward a
+product or service.
+
+❏ Government agencies use profiling to create descriptions of possible terrorist
+
+9
+
+Principles for Data Collection and Use:
+❏ Informed consent
+
+❏
+
+Opt-in and opt-out policies
+
+❏
+
+Fair Information Principles (or Practices)
+
+❏ Data retention - Data retention is the storing of information for a specified
+period.
+
+10
+
+Principles for Data Collection and Use:
+❏ Informed consent :
+○
+
+People should be informed about the data collection and use policies of a
+business or organization,
+
+○
+
+They can then decide whether or not to interact with that business or
+organization.
+
+❏ Opt-in and opt-out policies :
+○
+
+Opt-in :
+■
+
+Opting in means that a user will take an affirmative action to offer
+their consent.
+
+■
+
+The most common way businesses implement opt-in methods is
+through checkboxes. When presented with a checkbox, the user
+must take action to check the box, which denotes their consent.
+
+11
+
+Principles for Data Collection and Use:
+○
+
+Opt-in policies:
+■
+
+Opting in can be used in a variety of situations, including subscribing
+to email and newsletter mailing lists, accepting cookie use, and
+agreeing to legal policies.
+
+12
+
+Principles for Data Collection and Use:
+❏
+
+Opt-out policies :
+○
+
+Opting out means a user takes action to withdraw their consent.
+
+○
+
+Not choosing to subscribe to newsletters, unticking a previously ticked
+checkbox, not consenting to save personal details, rejecting the use of
+cookies, etc. are some examples of opt-out.
+
+13
+
+Principles for Data Collection and Use:
+❏ Fair Information Principles (or Practices)
+○
+
+Inform people when you collect information about them, what you collect, and
+how you use it.
+
+○
+
+Collect only data needed
+
+○
+
+Offer a way for people to opt out from mailing lists, advertising, and other
+secondary uses.
+
+○
+
+Offer a way for people to opt out from features and services that expose
+personal information.
+
+○
+
+Keep data only as long as needed
+
+○
+
+Protect security of data (from theft and from accidental leaks). Provide stronger
+protection for sensitive data.
+
+○
+
+Policies for responding to law enforcement
+
+14
+
+Thank You
+
+15
+
+

@@ -1,0 +1,242 @@
+A GIFT OF FIRE THIRD EDITION - SARA BAASE
+CHAPTER 3: Technology & Free Speech
+
+Lecture 1
+
+Md Umaid Hasan
+Senior Lecturer, Dept.of CSE
+Daffodil International University
+1
+
+Changing paradigms
+❏ Regulatory paradigms
+
+○ Communications technologies differ with respect to constitutional
+protections
+○ Also with respect to government regulation
+❏ The traditional three-part framework
+○ Print media (Newspapers, magazines)
+○ Broadcast media (Television, radio
+○ Common carriers (Telephone, telegraph, and the postal system)
+2
+
+Changing paradigms
+❏ Print media (Newspapers, magazines)
+○ Has the strongest protections for free speech
+❏ Broadcast media (Television, radio)
+○ Has protections, but govt controls structure of industry + content
+○ E.g. Canadian content regulations, restriction of some words
+❏
+
+Common carriers (Telephone, ISPs?)
+
+○ Content not controlled and carrier not responsible for content
+
+3
+
+Changing paradigms
+❏ Consider new technologies of the past 20 years
+○
+
+Bulletin-board systems (BBS)
+
+○ World Wide Web
+❏ How do these fit into the “print-broadcast-carrier” framework?
+○ Not exactly print media
+○
+
+Not exactly broadcast media
+
+○ Not exactly common carrier
+
+4
+
+Offensive Speech
+
+Examples of such speech can include
+❏
+
+Political or religious speech
+
+❏
+
+Pornography
+
+❏
+
+Sexual or racial slurs
+
+❏
+
+Nazi (or White Supremacist) materials
+
+❏
+
+Libellous (false and damaging) statements
+
+❏
+
+Abortion information
+
+❏
+
+Alcohol advertisement
+5
+
+Censorship
+❏
+
+Censorship is the suppression of speech, public communication, or other information.
+
+❏
+
+This may be done on the basis that such material is considered objectionable,
+harmful, sensitive, or "inconvenient".
+
+❏
+
+Censorship can be conducted by governments, private institutions and other
+controlling bodies.
+
+❏
+
+Governments and private organizations may engage in censorship. Other groups or
+institutions may propose and petition for censorship.
+
+❏
+
+General censorship occurs in a variety of different media, including speech, books,
+music, films, and other arts, the press, radio, television, and the Internet for a variety
+of claimed reasons including national security, to control obscenity, pornography, and
+hate speech, to protect children or other vulnerable groups, to promote or restrict
+political or religious views, and to prevent slander and libel.
+6
+
+Offensive speech & censorship
+❏
+
+One approach used in the US
+○
+
+Limit Internet access in libraries and schools.
+
+○
+
+Accomplish this via “filtering software”
+
+○
+
+“Funding” control (any school or library receiving US federal funds must install
+such software on internet terminals)
+
+❏
+
+Example: Canadian company • Userful.com (Calgary)
+
+❏
+
+software does much, much more than just web filtering
+
+❏
+
+Is CIPA compliant
+
+❏
+
+Filters block sites containing child pornography, obscene material, anything deemed
+“harmful to minors”
+
+7
+
+Hate Speech
+❏ Racist and hateful comments are offensive…
+○ but not necessarily illegal.
+❏ “hate speech” loosely refer to offensive discourse targeting a group or
+an individual based on inherent characteristics - such as
+○
+
+race,
+
+○ religion or
+○
+
+gender - and that may threaten social peace.
+
+❏ A judge has the authority to order removal of hate propaganda from a
+computer system available to public.
+8
+
+Hate Speech
+❏ Canadian Human Rights Act
+❏
+
+Section 13: Applies to e-mail, web sites, and any other
+telecommunications activity.
+
+❏ Prohibits messages likely to expose a person to hatred or contempt
+on any one of several categories.
+○ sexual orientation
+○ Race
+○ national or ethnic origin
+
+○ marital status
+
+○ Colour
+
+○ family status
+
+○ Religion
+
+○ Disability
+
+○ Age
+
+○ conviction for which a pardon has
+been granted
+
+9
+
+Challenges to Regulation
+❏ For certain kinds of activity, a licence is required:
+○ To practice law
+○ To practice medicine (e.g., prescribe medication)
+○
+
+To practice engineering
+
+○ To offer financial advice (e.g., investing in equities, futures,
+commodities)
+❏
+
+For other kinds of activity, no licence is required
+○ To create downloadable, self-help legal software.
+○ To publish newsletter / website about, or develop software for
+commodities and futures investing.
+10
+
+Censorship & the global net
+❏ Internet technology has a global impact on free speech
+❏
+
+Can be used to avoid censorship
+○
+
+Global nature of Internet allows restrictions in one country to be
+circumvented by using networks in other, less restrictive
+countries. Such sites are usually posted in the US.
+
+❏ Can be used to establish censorship
+○
+
+Global nature of Internet makes it easier for one nation to
+impose restrictive standards on others.
+
+❏ eBay bans some items for sale (i.e., hate-group memorabilia)
+because of different cultural standards in different countries.
+11
+
+Thank You
+
+12
+
+

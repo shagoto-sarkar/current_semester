@@ -1,0 +1,394 @@
+A GIFT OF FIRE THIRD EDITION - SARA BAASE
+CHAPTER 2: PRIVACY
+
+Lecture 4
+"PROTECTING PRIVACY”
+Md Umaid Hasan
+Lecturer, Dept.of CSE
+
+Daffodil International University
+1
+
+Technology and Markets:
+Awareness:
+Most people have figured out now you can’t do anything on the web
+without leaving a record.
+
+❏ We can decide to what extent we wish to use privacy-protecting
+tools.
+❏ We can be more careful about the information we give out, and
+the privacy policies of sites we use or visit.
+
+2
+
+Technology and Markets:
+Privacy-enhancing technologies for consumers
+❏ New applications of technology often can solve problems that arise
+as side effects of technology.
+❏ Example: cookie disablers, blocking pop-up ads, scanning PCs for
+spyware, etc.
+❏ Using usernames and passwords for Blogs visitors (family , friends,
+etc.)
+
+3
+
+Technology and Markets:
+Encryption
+❏ Information sent to and from websites can be intercepted.
+
+❏ Someone who steals a computer or hacks into it can view files on it .
+
+❏ Encryption is a technology that transforms data into a form that that is
+meaningless to anyone who might intercept or view it.
+❏ Encryption generally includes a coding scheme, or cryptography algorithm,
+and specific sequences of characters (digits or letters).
+
+Cryptography is the art and science of hiding data in plain sight.
+—Larry Loen
+
+4
+
+Technology and Markets:
+Encryption
+❏ Public-key cryptography: An
+encryption scheme, where two
+related keys are used.
+I.
+
+A key to encrypt
+messages.
+
+II. A key to decrypt
+messages.
+
+5
+
+Technology and Markets:
+
+Business tools and policies for protecting privacy
+➢ A well-designed database for sensitive information includes several features
+
+to protect against leaks, intruders, and unauthorized employee access.
+
+○ Each person with authorized access to the system should have a unique
+identifier and a password.
+○ A system can restrict users from performing certain operations, such as
+writing or deleting, on some files. User IDs can be coded so that they
+give access to only specific parts of a record.
+○ For example, a billing clerk in a hospital does not need access to the
+results of a patient’s lab tests.
+6
+
+Technology and Markets:
+Business tools and policies for protecting privacy
+❏ The computer system keeps track of information about each access, including
+the ID of the person looking at a record and the particular information viewed
+or modified. This is an audit trail that can later help trace unauthorized
+activity.
+❏ Website operators pay thousands, sometimes millions, of dollars to
+companies that do privacy audits. Privacy auditors check for leaks of
+information, review the company’s privacy policy and its compliance with that
+policy, evaluate warnings and explanations on its website that alert visitors
+when the site requests sensitive data, and so forth.
+❏ Some large companies like IBM and Microsoft, use their economic influence
+to improve consumer privacy on the web, by removing ads from their web 7
+sites.
+
+Rights and laws:
+Warren and Brandeis: The inviolate personality -
+
+❏ Warren and Brandeis criticized newspapers especially for the gossip
+columns.
+❏ People have the right to prohibit publications of facts (and photos) about
+themselves.
+❏ The kinds of information of most concern to them are personal
+appearance, statements, acts, and interpersonal relationships (marital,
+family, and others)
+
+❏ Warren and Brandeis say privacy is distinct and needs its own protection.
+8
+
+Rights and laws:
+Thomson: Is there a right to privacy? ❏ Thomson argues the opposite point of view.
+
+❏ There is no violation of privacy without violation of some other right,
+such as the right to control our property or our person, the right to be
+free from violent attacks, the right to form contracts(and expect them
+to be enforced).
+
+9
+
+Rights and laws:
+Applying the theories:
+
+❏ Many court decisions since Warren and Brandeis article, have
+
+❏
+
+taken their point of view.
+
+A person may win a case if someone published his/her
+consumer profile.
+
+❏ Warren and Brandeis (and court decisions) allow disclosure of
+personal information to people who have an interest in it.
+
+❏ An important aspect: consent
+
+10
+
+Rights and laws:
+Transactions
+❏ Privacy includes control of information about oneself.
+
+❏ How to apply privacy notions to transactions, Which involve more
+than one person?
+
+11
+
+Rights and laws:
+Ownership of personal data
+❏ People should be given property rights in information about
+
+themselves.
+❏ But some activities and transactions involve at least two people, each
+of whom would have claims to own the information about the activity.
+❏ Can we own our profiles (collection of data describing our activities,
+purchase, interests, etc.) ?
+❏ We cannot own the fact that our eyes have a certain color
+
+12
+
+Rights and laws:
+Regulation
+
+❏ Technical tools for privacy protection, market mechanisms,
+and business policies are not perfect.
+❏ Regulation is not perfect either.
+
+❏ Some Regulations may be so expensive and difficult to apply.
+
+❏ Example: Health Insurance Portability and Accountability Act
+(HIPAA)- protect sensitive patient health information from
+being disclosed without the patient’s consent or knowledge.
+
+13
+
+Rights and laws: Contrasting Viewpoints:
+Free Market View
+
+❏ Freedom of consumers to make voluntary agreements
+❏ Diversity of individual tastes and values
+
+❏ Response of the market to consumer preferences
+❏ Usefulness of contracts
+
+14
+
+Rights and laws: Contrasting Viewpoints:
+Consumer Protection View
+❏ Advocates of strong privacy regulation emphasize the
+unsettling uses of personal information
+❏ Costly and disruptive results of errors in databases
+❏ Ease with which personal information leaks out, via loss, theft,
+and carelessness
+❏ Consumers need protection from their own lack of knowledge,
+judgment, or interest
+
+15
+
+Communications
+Wiretapping and Email Protection:
+
+Telephone
+❏ 1934 Communications Act prohibited interception of
+messages
+❏ 1968 Omnibus Crime Control and Safe Streets Act
+allowed wiretapping and electronic surveillance by
+law-enforcement (with court order)
+
+16
+
+Communications
+Wiretapping and Email Protection:
+
+❏ Electronic Communications Privacy Act of 1986
+(ECPA) extended the 1968 wiretapping laws to include
+electronic communications, restricts government
+access to e-mail
+
+17
+
+Thank You
+
+18
+
+A GIFT OF FIRE THIRD EDITION - SARA BAASE
+CHAPTER 2: PRIVACY
+
+Lecture 3
+"DIVERSE PRIVACY TOPICS ”
+Md Umaid Hasan
+Lecturer, Dept.of CSE
+
+Daffodil International University
+1
+
+Marketing, Personalization and Consumer
+Dossiers:
+➢ Targeted and personalized marketing (business, political parties, etc)
+➢ Paying for consumer information Examples -
+
+○ Targeting ads to users by scanning their emails! Like Gmail.
+
+➢ Data firms and consumer profiles
+○
+
+Companies (firms) that collect information about individuals
+
+○ These firms sell data to other companies for marketing purposes.
+
+➢ Data mining is being used
+
+➢ Credit records might be sold to different parties
+2
+
+Social Networks
+❏ What we do
+❏
+
+○ Post opinions, gossip, pictures, “away from home” status
+What they do
+
+○ New services with unexpected privacy settings
+
+3
+
+Location Tracking:
+❏ Global Positioning Systems (GPS) -
+
+○ computer or communication services that know exactly
+where a person is at a particular time
+
+❏ Cell phones and other devices are used for location tracking
+
+4
+
+Stolen and Lost Data:
+❏ Hackers
+
+❏ Physical theft (laptops, thumb-drives, etc.)
+
+❏ Requesting information under false pretenses
+❏ Bribery of employees who have access
+
+5
+
+What We Do Ourselves
+❏ Some people do not know or understand enough how the web works
+in order to make good decisions about what to put there.
+❏ Some people do not think carefully.
+
+❏ People often want a lot of information about others but do not want
+others to have access to the same kind of information about
+themselves.
+❏ Our cell phone and email messages reside on computers outside our
+home or office.
+❏ We have no direct control over such files.
+6
+
+What We Do Ourselves
+❏ There have been many incidents of exposure of emails for politicians,
+businessmen, etc
+
+❏ Personal information in blogs and online profiles
+❏ Pictures of ourselves and our families
+❏ File sharing and storing
+
+❏ Is privacy old-fashioned?
+
+○ Young people put less value on privacy than previous
+generations.
+○ May not understand the risks.
+7
+
+Public Records: Access vs. Privacy:
+➢ Public Records -
+
+○ Governments maintain “public records,”
+○ Records available to general public (bankruptcy, property,
+and arrest records, salaries of government employees,
+etc.)
+
+➢
+
+Identity theft can arise when public records are accesses.
+
+➢ How should we control access to sensitive public records?
+
+8
+
+Children ( privacy and safety)
+➢ The Internet
+
+○ Not able to make decisions on when to provide
+information
+○ Vulnerable to online predators
+
+➢ Parental monitoring
+
+○ Software to monitor Web usage
+
+○ Web cams to monitor children while parents are at work
+○
+
+GPS tracking via cell phones or RFID
+9
+
+Children ( privacy and safety)
+➢ At what age does web monitoring become an invasion of the
+child’s privacy?
+
+➢ Should parents tell children about the tracking devices and
+services they are using?
+➢ Informed consent is a basic principle for adults.
+
+➢ At what age does it apply to children? Will intense tracking
+and monitoring slow the development of a child’s responsible
+independence? Will parents rely more on gadgets than on
+talking to their children?
+
+10
+
+National ID System:
+➢ Social Security Numbers
+○ Too widely used
+○ Easy to falsify
+
+➢ A new national ID system - Pros
+○
+
+would require the card
+
+○
+
+harder to forge
+
+○
+
+have to carry only one card
+
+➢ A new national ID system - Cons
+
+○ Threat to freedom and privacy
+○
+
+Increased potential for abuse
+
+11
+
+Thank You
+
+12
+
+

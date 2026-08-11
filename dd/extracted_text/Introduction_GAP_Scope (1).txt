@@ -1,0 +1,507 @@
+RESEARCH & INNOVATION IN CSE
+INTRODUCTION_RESEARCH
+GAP_SCOPE
+Dr. Arif Mahmud
+Associate Professor & Associate Head
+Department of CSE, Daffodil International University
+
+INTRODUCTION
+
+ELEMENTS
+The opening section – where you’ll introduce the reader
+to your research in high-level terms
+🞆 The background to the study – where you’ll explain the
+context of your project
+🞆 The research problem/problem statement – where
+you’ll explain the “gap” that exists in the current research
+🞆 The research aims, objectives and questions – where
+you’ll clearly state what your research will aim to achieve
+🞆 The significance/justification/motivation) – where you’ll
+explain why your research is worth doing and the value it
+will provide to the world
+🞆 The Scope and Limitations – where you’ll acknowledge
+the boundary and potential limitations of your project and
+approach
+🞆 The structure – where you’ll briefly outline the structure
+of your dissertation or thesis to help orient the reader
+🞆
+
+OPENING SECTION
+
+🞆 1 – A sentence or two introducing the overall field
+of your research.
+🞆 2 – A sentence introducing your specific research
+problem.
+🞆 3 – A sentence stating your research aims
+🞆 4 – A sentence outlining the layout of the chapter.
+🞆 Suggestion: 1 paragraph or 1 page is adequate
+
+BACKGROUND
+
+🞆 Use graph/chart/table to justify your problems.
+🞆 Highlight numbers/percentage/amount mostly
+🞆 Highlight recent problems (within last 1-3 years)
+Year
+
+Numbe
+r of
+Robber
+y Cases
+
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+
+220
+294
+222
+241
+265
+205
+131
+103
+83
+10
+
+Numb
+er of
+Murde
+r
+Cases
+245
+259
+264
+270
+262
+239
+165
+218
+216
+19
+
+Number
+of
+Kidnapp
+ing
+Cases
+139
+118
+149
+165
+176
+146
+103
+85
+75
+9
+
+Numbe
+r of
+Theft
+Cases
+
+Number
+of
+Burglary
+Cases
+
+Source
+
+1915
+2050
+2240
+2196
+2130
+1711
+1516
+1197
+1290
+127
+
+555
+589
+592
+534
+650
+642
+547
+554
+613
+49
+
+(“Crime Statistics,” 2010)
+(“Crime Statistics,” 2011)
+(“Crime Statistics,” 2012)
+(“Crime Statistics,” 2013)
+(“Crime Statistics,” 2014)
+(“Crime Statistics,” 2015)
+(“Crime Statistics,” 2016)
+(“Crime Statistics,” 2017)
+(“Crime Statistics,” 2018)
+(“Crime Statistics,” 2019)
+
+PROBLEM STATEMENT
+
+🞆 2 paragraphs are adequate (address research gap
+in 1st paragraph and research statement in 2nd )
+🞆 Example:
+🞆 Quantitative-based empirical research on
+consumer acceptance of IoT-enabled security
+facilities in homes is currently scarce and
+underexplored.
+🞆 It is vital to determine the factors that influence
+the intention to adopt IoT for home security at
+the households in Dhaka city
+
+RESEARCH QUESTIONS AND OBJECTIVES
+🞆 RQ1 – What skills development strategies and approaches are
+currently being used by web development companies?
+🞆 RQ2 – How effective are each of these strategies and approaches?
+🞆 RQ3 – What are the strengths and weaknesses of each of these
+strategies and approaches?
+🞆 RO1 – To identify common skills development strategies and
+approaches utilized by web development companies
+🞆 RO2 – To evaluate the effectiveness of these strategies and
+approaches.
+🞆 RO3 – To compare and contrast these strategies and approaches in
+terms of their strengths and weaknesses.
+
+🞆 N.B: Research questions should be measurable and
+have to answer in Discussion Chapter.
+🞆 2-3 research questions/objectives are adequate at
+BSc level.
+
+MOTIVATION
+
+🞆 Be specific, concrete as much as possible
+🞆 Highlight who and how will be benefitted
+🞆 How your work is beneficial at individual, social,
+national or global level?
+🞆 Example:
+🞆 It is anticipated that burglary and other criminal
+attempts at households can be reduced if an IoTempowered security system can thoroughly be
+introduced to the household of Dhaka city and
+more than 200 million people will be benefited.
+
+SCOPE AND LIMITATIONS
+🞆 Define the boundary, I mean what to include and
+what to ignore (can be called assumptions).
+🞆 Also define concrete and optional goals
+🞆 Address the potential challenges and how to
+address those.
+
+STRUCTURE
+
+🞆 Example:
+🞆 This thesis is organized into six chapters. First,
+background information is supplied in chapter 1,
+which leads to problem statements, research
+questions, and objectives. Subsequently, chapter
+2 looks at the current literature on adoption
+ideas. Furthermore, an acceptable model is
+chosen, together with argumentation for the
+relevance to the research's environment. In
+addition, a list of hypotheses is proposed
+following the research model. Afterward, chapter
+3 provides a thorough explanation …
+
+RESEARCH GAP
+Dr. Arif Mahmud
+Associate Professor & Associate Head
+Department of CSE, Daffodil International University
+
+WHAT IS A ‘GAP IN THE LITERATURE’?
+🞆 The gap, also considered the missing piece or
+pieces in the research literature, is the area that
+has not yet been explored or is under-explored.
+This could be a population or sample (size, type,
+location, etc.), research method, data collection
+and/or analysis, or other research variables or
+conditions.
+
+WHY IS IT IMPORTANT TO IDENTIFY A
+UNIQUE RESEARCH GAP?
+
+🞆 Assume that you have completed your research
+work and published the findings only to find out
+that another researcher has already published
+something similar. How devastating would that
+be! Therefore, it is necessary to find out those
+problems in your research field which have not
+been addressed before. Not only would you be
+investing your funds and resources in the right
+project but also increasing the chances of your
+research findings getting published.
+
+TYPES OF RESEARCH GAPS
+
+EXAMPLES
+🞆
+
+🞆
+
+🞆
+
+🞆
+
+🞆
+
+🞆
+
+🞆
+
+Evidence Gap : (Contradictory Evidence Gap)
+Results from studies allow for conclusions in their own right, but are contradictory when
+examined from a more abstract point of view [Jacobs, 2011; Müller-Bloch & Kranz, 2014;
+Miles, 2017].
+2.Knowledge Gap :
+Desired research findings do not exist [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles,
+2017].
+3.Practical-Knowledge Conflict Gap :
+Professional behavior or practices deviate from research findings or are not covered by
+research [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].
+4.Methodological Gap :
+A variation of research methods is necessary to generate new insights or to avoid distorted
+findings [Jacobs, 2011; Müller-Bloch & Kranz, 2014; Miles, 2017].
+5.Empirical Gap :
+Research findings or propositions need to be evaluated or empirically verified [Jacobs, 2011;
+Müller-Bloch & Kranz, 2014; Miles, 2017].
+6.Theoretical Gap :
+Theory should be applied to certain research issues to generate new insights. There is lack
+of theory thus a gap exists [Müller-Bloch & Kranz, 2014; Jacobs, 2011; Müller-Bloch &
+Kranz, 2014; Miles, 2017].
+7.Population Gap :
+Research regarding the population that is not adequately represented or under-researched
+in the evidence base or prior research [Robinson, et al, 2011].
+
+COMMON RESEARCH GAPS
+
+HOW TO IDENTIFY RESEARCH GAPS
+🞆 Literature Review
+🞆 Critical Analysis
+🞆 Discussions with Peers and Mentors
+🞆 Attending Conferences and Seminars
+🞆 Engaging with Practitioners or Stakeholders
+🞆 Utilizing Concept Mapping or Mind Mapping
+
+POINTS TO AVOID
+🞆 Too much description and analysis of the previously
+
+done studies must be avoided to keep the thesis
+research gap indicative and emblematic.
+🞆 Avoid giving too much statistical information.
+🞆 Avoid not reading enough. Identifying a research gap
+needs thorough reading, not skimping through facts.
+🞆 Avoid failing to accurately identify the need for
+further study and the lack of a persuasive framework
+for the identification of the research gap.
+🞆 Avoid not using enough citations for supporting the
+identified lacuna.
+🞆 Avoid not stating the significance of the identified
+gaps.
+
+EXAMPLE
+🞆
+
+According to Macik (2017), the global research interest in IoT-related
+topics began around 2008. However, since 2013, several high-quality
+journals indexed in Scopus, Web of Science, and other databases have
+observed a considerable rise. Almost all of the publications are about
+IoT's technical development in computer and electrical engineering. A
+small amount of research related to this research (around 8.6%) is in
+management, social science, and others (Macik, 2017). This includes
+papers on consumer adoption of IoT in various nations (Luthra et al.,
+2018; Miazi et al., 2016). In addition, some research on smart homes
+and home automation has also been carried out (Yang et al., 2018;
+Park et al., 2017; Baudier et al., 2020). Furthermore, academics have
+focused on user adoption of IoT devices and services (Hsu & Lin,
+2016; Hsu & Lin, 2018). It is important to note that household
+security issues are partially included as one of the elements or
+constructs in these papers (Hsu & Lin, 2016; Hsu & Lin, 2018; Yang
+et al., 2018; Luthra, et al., 2018; Miazi et al., 2016). Nonetheless,
+quantitative-based empirical research on consumer acceptance of IoTenabled security facilities in homes is currently scarce and
+underexplored.
+
+FURTHER RESOURCES
+🞆
+🞆
+
+🞆
+
+🞆
+🞆
+
+🞆
+
+Müller-Bloch, C., & Kranz, J. (2015). A framework for rigorously
+identifying research gaps in qualitative literature reviews.
+Kavuri, Anil Savio and Milne, Alistair K. L., Fintech and the Future
+of Financial Services: What Are the Research Gaps? (February 13,
+2019). CAMA Working Paper No. 18/2019
+Chandra. (2017). How to Write a Thesis : A Working Guide. Retrieved
+from
+https://www.student.uwa.edu.au/__data/assets/pdf_file/0007/1919239/
+How-to-write-a-thesis-A-working-guide.pdf
+Oulu. (2012). GUIDELINES FOR WRITING A THESIS. Retrieved
+from https://www.oulu.fi/sites/default/files/content/Guidelines.pdf
+Pubrica. (2021). Framework for the Identirication Of the Research
+Gap. Retrieved September 30, 2021, from Pubrica website:
+http://pubrica.com/academy/uncategorized/a-framework-for-theidentification-of-the-research-gap/
+Tsoulfas, G. (2021). The Importance of Research. Journal of the
+American
+College
+of
+Surgeons,
+232(5),
+680–681.
+https://doi.org/10.1016/j.jamcollsurg.2021.02.003
+
+SCOPE OF THE STUDY
+Dr. Arif Mahmud
+Associate Professor & Associate Head
+Department of CSE, Daffodil International University
+
+SCOPE AND DELIMITATION
+🞆 Scope refers to the range of the research project
+and the study limitations set in place to define
+the boundaries of the project and delimitation
+refers to the specific aspects of the research
+project that the study will focus on.
+🞆 In simpler words, scope is the breadth of your
+study, while delimitation is the depth of your
+study.
+🞆 1 paragraph is adequate.
+🞆 Includes Introduction, Literature review (partly)
+and Methodology (mostly) chapters.
+
+SCOPE STATEMENT
+A good scope statement will answer the following six
+questions:
+
+🞆 Why – Purpose and objectives .
+🞆 What – Topic, theory, model and variables.
+🞆 Where – Location of data with collection procedure.
+🞆 When – Timeframe and time dimension.
+🞆 Who – Population, sample and sampling.
+🞆 How – Methods, tools and analysis techniques.
+
+DRAFT WRITING
+Purpose of the study
+
+To enhance the adoption of IoT-enabled security devices to reduce
+burglary
+
+Objectives
+
+To determine the factors that influence the intention to adopt IoT
+for security purposes at the households in Dhaka city.
+
+Conceptual model
+
+Integration of PMT and ASE with perceived trust and personal
+innovativeness as moderators
+
+Population
+
+Household members who are the potential users of Dhaka city
+
+Sample
+
+Household head who are house owner and above 24 years of age
+
+Sampling type
+
+Purposive sampling
+
+Unit of analysis
+
+Individual
+
+Geographical location
+
+Dhaka city
+
+Method
+
+Quantitative study
+
+Primary data
+
+Survey
+
+Data analysis technique
+
+Partial least square of structured equation modeling
+
+data analysis tool
+
+SPSS V23 and SmartPLS V3.3.3
+
+Evaluation technique
+
+Measurement, structural, moderation analysis
+
+HOW TO START WRITING
+Scope:
+🞆 This study is to focus on…
+🞆 This study covers the…
+🞆 This study aims to…
+Delimitation:
+🞆 This study does not cover…
+🞆 This study is limited to…
+🞆 The following has been excluded from this
+study…
+
+EXAMPLE
+The purpose of the study is to enhance the adoption of IoT-enabled
+security devices to reduce burglary. Therefore, the objective of this
+study is to measure the consumer adoption of IoT devices for security
+purposes through the support of the proposed conceptual model.
+Notably, two theoretical models namely PMT and ASE are integrated
+into the proposed model along with the inclusion of personal
+innovativeness and perceived trust as moderating variables. Besides,
+the scope of this study is limited only to those household members of
+Dhaka city who use IoT devices at their houses for security reasons.
+However, data will be collected only from the head of households
+since he/she is the ultimate decision-maker in these families.
+Specifically, purposive sampling will be employed in this study to
+collect data from a minimum of 166 samples using a cross-sectional
+survey. Importantly, this quantitative and empirical study is intended
+to complete within 3 years during the period 2019-2022. Finally, PLSSEM will be used to analyze the data following measurement,
+structural, moderation using SPSS and SMARTPLS tools.
+
+FURTHER RESOURCES
+🞆 https://www.aje.com/arc/scope-and-delimitations-i
+n-research/
+🞆 https://www.youtube.com/watch?v=i_51xLDvi7o
+🞆 https://www.enago.com/academy/scope-and-delim
+itations/
+🞆 https://www.youtube.com/watch?v=nJbBp-u2sd4
+
+FURTHER RESOURCES
+🞆 Creswell, J. W. (2014). Research Design:
+Qualitative, Quantitative and Mixed Methods
+Approaches (4th ed.). Thousand Oaks, California:
+Sage.
+🞆 Kothari, C.R. (2004). Research Methodology:
+Methods and Techniques (2nd ed.). Delhi: New
+Age International Publishers.
+🞆 Bryman, A., & Bell, E. (2007). Business research
+methods (2nd ed.). New York: Oxford University
+Press.
+🞆 Sekaran, U. (2003). Research methods for
+business: A skill-building approach (4th ed.). New
+York: John Wiley & Sons.
+
+THE END
+
+Thank You
+
+

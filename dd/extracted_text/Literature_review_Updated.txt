@@ -1,0 +1,153 @@
+LITERATURE REVIEW
+Dr. Arif Mahmud
+
+Associate Professor & Associate Head
+
+Department of CSE, Daffodil International University
+
+LITERATURE REVIEW
+ A critical analysis of existing research in your field
+ It
+
+highlights both the strengths and weaknesses of
+existing research
+ Allows you to gain a critical understanding of your
+field
+ Opportunity to think about what has been done in
+your field
+ Opportunity to think about the similarities, patterns,
+trends and also differences across the existing
+research
+ By identifying strengths and weakness, you will be
+able to think about what needs to be done
+ Establishes the gaps or inadequacies
+
+LITERATURE REVIEW
+
+STARTING TO THINK ABOUT YOUR OWN
+LITERATURE REVIEW
+ Who are the key players in my field? This could
+
+be anything from academics, medics, governing
+bodies, schools of thought etc. (Sources!)
+ What are the main ideas/debates in my field?
+ How have these ideas changed over time?
+ What are some of the problems with these
+ideas/debates? Is there a problem with the
+methodology?
+ What are you going to do differently?
+
+KEY PLAYERS AND SOURCES
+ First stage of the literature review is to identify
+
+the key people in your field and collate all relevant
+sources about your topic.
+ Ask yourself:
+What research and theory is there on my topic?
+What are the key sources on my topic?
+Who are the main researchers in this area?
+How has the topic been investigated over time?
+
+GETTING STARTED: PLANNING THE REVIEW
+ How will you organize the information?
+
+– Chronologically?
+– Thematically?
+– By trends/approaches/techniques?
+– Major debates/controversies?
+– Probably a combination of these
+
+ILLUSTRATING TRENDS: SYNTHESIZING
+LITERATURE
+ Avoid list-like structure by illustrating trends
+
+and patterns
+ For example:
+Research into thesis titles has emphasized the use
+of the colon to distinguish the thematic focus
+from the precise focus of the work (Smith, 1999;
+James, 2002; Webster, 2007; Helgesen, 2008).
+
+USE OF CITATIONS IN THE LITERATURE
+REVIEW
+ Two types of citations:
+
+• Integral: The author’s name appears in the
+sentence.
+– Example (author-date system): Lillis (2001)
+argues that both tutors and students often lack
+explicit knowledge of the conventions governing the
+construction of academic texts.
+• Non-integral: The author’s name appears outside
+sentence.
+– Example: Both tutors and students often lack
+explicit knowledge of the conventions governing the
+construction of academic texts (Lillis, 2001).
+
+REVIEW SUMMARIZATION
+
+GETTING STARTED: PLANNING THE REVIEW
+ Chronologically?
+ Thematically?
+ By trends/approaches/techniques?
+ Major debates/controversies?
+ Probably a combination of these
+
+EDITING AND PROOFREADING
+ Editing and proofreading are fundamental
+
+aspects of good academic practice.
+
+ Editing
+
+is the process of continually revising
+and improving your written work. It is often an
+activity that forms a major part of the writing
+process.
+
+ Proofreading
+
+is the final check before printing
+and submission. It is a process that helps remove
+errors and improve presentation
+
+EXAMPLE
+This research identifies six UTAUT 2-based papers that are as
+follows. First, Abushakra and Nikbin (2019) and Alkawsi et al.
+(2018) study IoT-based applications from entrepreneur and
+consumer perspectives. As per Abushakra and Nikbin (2019),
+entrepreneurs do not embrace IoT services when the
+procedures are not advantageous, convenient, and simple.
+Alternatively, new approaches and management strategies are
+required to improve the adoption rates among consumers
+(Alkawsi et al., 2018). In both cases, knowledge of the system
+has a high influence on the adoption intention.
+
+Furthermore, different age groups have different priorities,
+beliefs, and expectations for IoT-based systems. For example,
+those between 20 to 30 years of age bear more faith in nonprofit and profitable companies, whereas the elder groups are
+discerned to have faith only in public organizations
+(Radenković et al., 2020). Similarly, personality-related issues
+with age have a significant impact on the adoption of RFID in
+healthcare (Chong et al., 2015). For this reason, different types
+of services are recommended in these studies, keeping the age
+groups and individual characteristics in mind.
+
+
+FURTHER READING
+ Greenhalgh, T. (2006) How to Read a Paper: The
+
+basics of evidencebased medicine Third edition.
+Oxford: Blackwell and BMJ
+ Hart, C. (1998) Doing a Literature Review.
+London: SAGE
+ Ridley, D. (2008) The Literature Review: A Stepby-Step Guide for Students. London: SAGE
+ Yudkin, B. (2006) Critical Reading: Making sense
+of research papers in life sciences and medicine.
+London: Routledge
+
+THE END
+
+Thank You
+
+
